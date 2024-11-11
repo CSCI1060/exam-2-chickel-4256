@@ -1,2 +1,17 @@
-Use this file to submit the extra credit problem. Be sure to describe your
-process for solving the problem, and not just to give the solution. 
+The input code translates to:
+
+‘I WISH IT NEED NOT HAVE HAPPENED IN MY TIME,’ SAID
+FRODO.
+‘SO DO I,’ SAID GANDALF, ‘AND SO DO ALL WHO LIVE TO
+SEE SUCH TIMES. BUT THAT IS NOT FOR THEM TO DECIDE.
+ALL WE HAVE TO DECIDE IS WHAT TO DO WITH THE TIME
+THAT IS GIVEN, US.
+
+A passage from JRR Tolkien's book, "The Fellowship of the Ring" (one of my personal favorite books)
+It was written in a ceasar cipher of 3
+
+The cipher function I wrote in class got most of the characters right but 
+could not handle spaces or characters that wrapped around a or z 
+so I went over to the class website to download the ceasar cipher
+example. After struggling with proper location and file names, I finally 
+got the class code to output, what I presume, is the proper text. 
