@@ -8,6 +8,7 @@ ALL WE HAVE TO DECIDE IS WHAT TO DO WITH THE TIME
 THAT IS GIVEN, US.
 
 A passage from JRR Tolkien's book, "The Fellowship of the Ring" (one of my personal favorite books)
+
 It was written in a ceasar cipher of 3
 
 The cipher function I wrote in class got most of the characters right but 
@@ -15,3 +16,5 @@ could not handle spaces or characters that wrapped around a or z
 so I went over to the class website to download the ceasar cipher
 example. After struggling with proper location and file names, I finally 
 got the class code to output, what I presume, is the proper text. 
+
+I determined the cipher key was 3 by writing out the first few words on paper to see whether or not my keys were giberish. I chose to try a 3 and 11 since there are a number of occurances of single letter words, which in english (which I assumed was the language of the cipher) means it must be either I or A, so I adjusted the alphabet to have L at both I and A respectivly. A key of 3 makes I the proper translation for L, and so I ran the whole text through the cipher decoder and got the above output. 
